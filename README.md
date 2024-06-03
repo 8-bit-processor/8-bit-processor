@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @8-bit-processor..
-Welcome to my repository
-A special place to make cool and useful things 
+Welcome to my repository.
+I program as a hobby and for my enjoyment.
